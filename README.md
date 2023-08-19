@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kongkangshi36
+- 👀 I’m interested in Software Engineering student specializing in Kotlin. 
+- 🌱 I’m currently learning Enthusiastic about Android development and innovative mobile apps.
